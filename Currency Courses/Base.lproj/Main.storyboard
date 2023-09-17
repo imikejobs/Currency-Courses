@@ -790,7 +790,7 @@
                                 </scroller>
                             </scrollView>
                             <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ktU-V4-P2X">
-                                <rect key="frame" x="18" y="464" width="197" height="16"/>
+                                <rect key="frame" x="18" y="461" width="197" height="19"/>
                                 <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
                                 <textFieldCell key="cell" lineBreakMode="clipping" alignment="left" title="Label" id="DOF-C1-enl">
                                     <font key="font" metaFont="systemBold" size="14"/>

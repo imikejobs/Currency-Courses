@@ -8,6 +8,8 @@
 
 /* Begin PBXBuildFile section */
 		27327AC02A8ABA7300E5FFF0 /* GEL.png in Resources */ = {isa = PBXBuildFile; fileRef = 27327ABF2A8ABA7300E5FFF0 /* GEL.png */; };
+		2739AEB12AB75E040063A949 /* RUR.png in Resources */ = {isa = PBXBuildFile; fileRef = 2739AEB02AB75E030063A949 /* RUR.png */; };
+		2739AEB72AB762290063A949 /* BYN.png in Resources */ = {isa = PBXBuildFile; fileRef = 2739AEB62AB762280063A949 /* BYN.png */; };
 		2795217629720D430027FCA2 /* DateViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2795217529720D430027FCA2 /* DateViewController.swift */; };
 		279521782972362D0027FCA2 /* ConverterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 279521772972362D0027FCA2 /* ConverterViewController.swift */; };
 		2795219F29758C6A0027FCA2 /* AMD.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795217A29758C690027FCA2 /* AMD.png */; };
@@ -15,7 +17,6 @@
 		279521A129758C6A0027FCA2 /* AZN.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795217C29758C690027FCA2 /* AZN.png */; };
 		279521A229758C6A0027FCA2 /* BGN.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795217D29758C690027FCA2 /* BGN.png */; };
 		279521A329758C6A0027FCA2 /* BRL.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795217E29758C690027FCA2 /* BRL.png */; };
-		279521A429758C6A0027FCA2 /* BYN.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795217F29758C690027FCA2 /* BYN.png */; };
 		279521A529758C6A0027FCA2 /* CAD.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795218029758C690027FCA2 /* CAD.png */; };
 		279521A629758C6A0027FCA2 /* CHF.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795218129758C690027FCA2 /* CHF.png */; };
 		279521A729758C6A0027FCA2 /* CNY.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795218229758C690027FCA2 /* CNY.png */; };
@@ -36,7 +37,6 @@
 		279521B629758C6A0027FCA2 /* NOK.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219129758C690027FCA2 /* NOK.png */; };
 		279521B729758C6A0027FCA2 /* PLN.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219229758C690027FCA2 /* PLN.png */; };
 		279521B829758C6A0027FCA2 /* RON.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219329758C690027FCA2 /* RON.png */; };
-		279521B929758C6A0027FCA2 /* RUR.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219429758C690027FCA2 /* RUR.png */; };
 		279521BA29758C6A0027FCA2 /* SEK.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219529758C690027FCA2 /* SEK.png */; };
 		279521BB29758C6A0027FCA2 /* SGD.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219629758C690027FCA2 /* SGD.png */; };
 		279521BC29758C6A0027FCA2 /* TJS.png in Resources */ = {isa = PBXBuildFile; fileRef = 2795219729758C690027FCA2 /* TJS.png */; };
@@ -57,6 +57,8 @@
 
 /* Begin PBXFileReference section */
 		27327ABF2A8ABA7300E5FFF0 /* GEL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = GEL.png; sourceTree = "<group>"; };
+		2739AEB02AB75E030063A949 /* RUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RUR.png; sourceTree = "<group>"; };
+		2739AEB62AB762280063A949 /* BYN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BYN.png; sourceTree = "<group>"; };
 		2795217529720D430027FCA2 /* DateViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateViewController.swift; sourceTree = "<group>"; };
 		279521772972362D0027FCA2 /* ConverterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConverterViewController.swift; sourceTree = "<group>"; };
 		2795217A29758C690027FCA2 /* AMD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AMD.png; sourceTree = "<group>"; };
@@ -64,7 +66,6 @@
 		2795217C29758C690027FCA2 /* AZN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = AZN.png; sourceTree = "<group>"; };
 		2795217D29758C690027FCA2 /* BGN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BGN.png; sourceTree = "<group>"; };
 		2795217E29758C690027FCA2 /* BRL.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BRL.png; sourceTree = "<group>"; };
-		2795217F29758C690027FCA2 /* BYN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = BYN.png; sourceTree = "<group>"; };
 		2795218029758C690027FCA2 /* CAD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CAD.png; sourceTree = "<group>"; };
 		2795218129758C690027FCA2 /* CHF.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CHF.png; sourceTree = "<group>"; };
 		2795218229758C690027FCA2 /* CNY.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = CNY.png; sourceTree = "<group>"; };
@@ -85,7 +86,6 @@
 		2795219129758C690027FCA2 /* NOK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = NOK.png; sourceTree = "<group>"; };
 		2795219229758C690027FCA2 /* PLN.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = PLN.png; sourceTree = "<group>"; };
 		2795219329758C690027FCA2 /* RON.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RON.png; sourceTree = "<group>"; };
-		2795219429758C690027FCA2 /* RUR.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = RUR.png; sourceTree = "<group>"; };
 		2795219529758C690027FCA2 /* SEK.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SEK.png; sourceTree = "<group>"; };
 		2795219629758C690027FCA2 /* SGD.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = SGD.png; sourceTree = "<group>"; };
 		2795219729758C690027FCA2 /* TJS.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TJS.png; sourceTree = "<group>"; };
@@ -127,7 +127,7 @@
 				2795217C29758C690027FCA2 /* AZN.png */,
 				2795217D29758C690027FCA2 /* BGN.png */,
 				2795217E29758C690027FCA2 /* BRL.png */,
-				2795217F29758C690027FCA2 /* BYN.png */,
+				2739AEB62AB762280063A949 /* BYN.png */,
 				2795218029758C690027FCA2 /* CAD.png */,
 				2795218129758C690027FCA2 /* CHF.png */,
 				2795218229758C690027FCA2 /* CNY.png */,
@@ -148,7 +148,7 @@
 				2795219129758C690027FCA2 /* NOK.png */,
 				2795219229758C690027FCA2 /* PLN.png */,
 				2795219329758C690027FCA2 /* RON.png */,
-				2795219429758C690027FCA2 /* RUR.png */,
+				2739AEB02AB75E030063A949 /* RUR.png */,
 				2795219529758C690027FCA2 /* SEK.png */,
 				2795219629758C690027FCA2 /* SGD.png */,
 				2795219729758C690027FCA2 /* TJS.png */,
@@ -260,11 +260,13 @@
 				279521B429758C6A0027FCA2 /* LVL.png in Resources */,
 				279521B529758C6A0027FCA2 /* MDL.png in Resources */,
 				279521AB29758C6A0027FCA2 /* GBP.png in Resources */,
+				2739AEB12AB75E040063A949 /* RUR.png in Resources */,
 				279521AC29758C6A0027FCA2 /* HKD.png in Resources */,
 				279521B829758C6A0027FCA2 /* RON.png in Resources */,
 				279521A529758C6A0027FCA2 /* CAD.png in Resources */,
 				279521AE29758C6A0027FCA2 /* INR.png in Resources */,
 				279521A329758C6A0027FCA2 /* BRL.png in Resources */,
+				2739AEB72AB762290063A949 /* BYN.png in Resources */,
 				279521C129758C6A0027FCA2 /* UZS.png in Resources */,
 				279521AA29758C6A0027FCA2 /* EUR.png in Resources */,
 				279521BE29758C6A0027FCA2 /* TRY.png in Resources */,
@@ -277,10 +279,8 @@
 				279521A029758C6A0027FCA2 /* AUD.png in Resources */,
 				279521A729758C6A0027FCA2 /* CNY.png in Resources */,
 				279521C029758C6A0027FCA2 /* USD.png in Resources */,
-				279521B929758C6A0027FCA2 /* RUR.png in Resources */,
 				279521B129758C6A0027FCA2 /* KRW.png in Resources */,
 				2795219F29758C6A0027FCA2 /* AMD.png in Resources */,
-				279521A429758C6A0027FCA2 /* BYN.png in Resources */,
 				279521B029758C6A0027FCA2 /* KGS.png in Resources */,
 				279521AD29758C6A0027FCA2 /* HUF.png in Resources */,
 				279521A829758C6A0027FCA2 /* CZK.png in Resources */,
@@ -447,7 +447,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Currency Courses/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -455,7 +455,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "Mike.Currency-Courses";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
@@ -470,7 +470,7 @@
 				CODE_SIGN_IDENTITY = "-";
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1;
+				CURRENT_PROJECT_VERSION = 2;
 				DEVELOPMENT_TEAM = "";
 				INFOPLIST_FILE = "Currency Courses/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -478,7 +478,7 @@
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 10.12;
-				MARKETING_VERSION = 1.0;
+				MARKETING_VERSION = 1.0.1;
 				PRODUCT_BUNDLE_IDENTIFIER = "Mike.Currency-Courses";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
